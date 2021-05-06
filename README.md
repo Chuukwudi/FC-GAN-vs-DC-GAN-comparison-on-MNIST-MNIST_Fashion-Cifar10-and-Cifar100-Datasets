@@ -1,2 +1,1 @@
-# FC-GAN-vs-DC-GAN-comparison-on-MNIST-MNIST_Fashion-Cifar10-and-Cifar100-Datasets
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Chuukwudi/FC-GAN-vs-DC-GAN-comparison-on-MNIST-MNIST_Fashion-Cifar10-and-Cifar100-Datasets/blob/master/FC_vs_DC_GAN.ipynb)
